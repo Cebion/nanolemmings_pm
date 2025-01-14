@@ -7,13 +7,13 @@ void Text::resize(float f) {
 //	if (small) TTF_CloseFont(small);
 //	if (verysmall) TTF_CloseFont(verysmall);
 //	if (tiny) TTF_CloseFont(tiny);
-	if (!huge) huge=TTF_OpenFont("/usr/share/fonts/truetype/LiberationSans-Bold.ttf",72);
-	if (!big) big=TTF_OpenFont("/usr/share/fonts/truetype/LiberationSans-Bold.ttf",54);
-	if (!large) large=TTF_OpenFont("/usr/share/fonts/truetype/LiberationSans-Bold.ttf",42);
-	if (!normal) normal=TTF_OpenFont("/usr/share/fonts/truetype/LiberationSans-Regular.ttf",36);
-	if (!small) small=TTF_OpenFont("/usr/share/fonts/truetype/LiberationSans-Regular.ttf",28);
+	if (!huge) huge=TTF_OpenFont("./fonts/truetype/LiberationSans-Bold.ttf",72);
+	if (!big) big=TTF_OpenFont("./fonts/truetype/LiberationSans-Bold.ttf",54);
+	if (!large) large=TTF_OpenFont("./fonts/truetype/LiberationSans-Bold.ttf",42);
+	if (!normal) normal=TTF_OpenFont("./fonts/truetype/LiberationSans-Regular.ttf",36);
+	if (!small) small=TTF_OpenFont("./fonts/truetype/LiberationSans-Regular.ttf",28);
 //	verysmall=TTF_OpenFont("/usr/share/fonts/truetype/LiberationSans-Regular.ttf",26*f);
-	if (!tiny) tiny=TTF_OpenFont("/usr/share/fonts/truetype/LiberationSans-Regular.ttf",12);
+	if (!tiny) tiny=TTF_OpenFont("./fonts/truetype/LiberationSans-Regular.ttf",12);
 	reset_cache();
 }
 void Text::reset_cache() {

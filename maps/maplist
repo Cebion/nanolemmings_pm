@@ -1,0 +1,182 @@
+1021  // level id
+Move
+maps/move.png
+maps/move-img.png
+0
+music/laidback1.mod
+200 0 0 0 0 0 0
+1022  // level id
+Select
+maps/select.png
+maps/select-img.png
+0
+music/laidback2.mod
+3000 1 0 0 0 0 0
+1001  // level id
+Obstacle
+maps/dig.png
+maps/dig-img.png
+0
+music/laidback3.mod
+100 0 0 1 0 0 0  // rescue_nb  select  build  dig  explode  climb  float
+2002
+Tutorial: dig
+maps/tut_dig_map.png
+maps/tut_dig_gfx.png
+4 10 0 0 // nb_frames  frame_delay  nb_overlay_frames  overlay_frame_delay
+maps/tut_dig_ani_1.png
+maps/tut_dig_ani_2.png
+maps/tut_dig_ani_3.png
+maps/tut_dig_ani_4.png
+music/clear-a-zill.mod
+500 0 0 1 0 0 0
+1002
+Just dig!
+maps/orig_lemmings_map.png
+maps/orig_lemmings_img.png
+0
+music/lemming1.mod
+500 0 0 1 0 0 0
+1003
+Jump!
+maps/floaters.png
+maps/floaters-img.png
+0
+music/laidback4.mod
+100 1 0 1 3000 0 3000
+1004
+Left, Right
+maps/leftright.png
+maps/leftright-img.png
+0
+music/laidback5.mod
+100 0 0 0 0 0 3000
+1005
+Two lemmings
+maps/two_lemmings.png
+maps/two_lemmings-img.png
+0
+music/bananas.mod
+2 1 0 1 1 1 1
+1010
+Swimming
+maps/swim.png
+maps/swim-img.png
+0
+music/tunafish.mod
+200 1 0 1 -1 0 0
+1011
+Lava pit
+maps/lava.png
+maps/lava-img.png
+0
+music/cru-ontherun.mod
+150 1 1 1 -1 0 0
+3002
+Just dig?
+maps/orig_lemmings_map2.png
+maps/orig_lemmings_img2.png
+0
+music/fatherna.mod
+200 1 0 1 0 100 500
+2001  // level id
+Pyramid
+maps/pyramid-map.png
+maps/pyramid-bg.png
+3 10 0 0 // nb_frames  frame_delay  nb_overlay_frames  overlay_frame_delay
+maps/pyramid-frame1.png
+maps/pyramid-frame2.png
+maps/pyramid-frame3.png
+music/nowwhat2.mod
+200 1 1 1 500 500 500  // rescue_nb  select  build  dig  explode  climb  float
+1006
+Zig-zag
+maps/zigzag.png
+maps/zigzag-img.png
+0
+music/the_chill.mod
+500 1 1 1 100 100 100
+1007
+Staircase
+maps/staircase.png
+maps/staircase.png
+0
+music/planetarium.mod
+200 1 1 1 100 100 100
+1008
+How?
+maps/how.png
+maps/how-img.png
+0
+music/moongazr.mod
+500 1 1 1 9000 9000 9000
+1009
+Paratroopers
+maps/paratroopers.png
+maps/paratroopers.png
+0
+music/streetswept.mod
+50 1 0 1 3000 3000 3000
+1010
+Drop Beehive
+maps/beehive.png
+maps/beehive-img.png
+0
+music/bopflop.mod
+500 1 1 1 -1 0 0
+1012
+The rope
+maps/rope.png
+maps/rope.png
+0
+music/depyp.mod
+20 1 0 1 5000 5000 5000
+1101
+Lava dig down
+maps/lava_dig.png
+maps/lava_dig-img.png
+0
+music/cru-niteflite.mod
+1000 1 1 1 -1 -1 -1
+1013
+Dragon Lair
+maps/dragon_lair.png
+maps/dragon_lair-img.png
+0
+music/digthis.mod
+2000 1 1 1 0 200 20
+1014
+Extinguisher
+maps/extinguisher.png
+maps/extinguisher-img.png
+0
+music/bopflop.mod
+1000 1 1 1 -1 -1 -1
+1015
+The cave river
+maps/river.png
+maps/river-img.png
+0
+music/fabious.mod
+1000 1 0 1 -1 0 0
+1016
+Ocean magma
+maps/underwater_vulcano.png
+maps/underwater_vulcano-img.png
+0
+music/zirkonth.mod
+300 1 1 1 -1 0 0
+9001
+Over 9000!
+maps/over9000.png
+maps/over9000.png
+0
+music/godzilla.mod
+9001 1 1 1 5000 1000 10000
+3001
+Microbes!
+maps/microbe_map.png
+maps/microbe_img.png
+0
+music/microbes-loop4.ogg
+100 1 1 1 0 -1 -1

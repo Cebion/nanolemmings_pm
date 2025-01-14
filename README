@@ -1,0 +1,69 @@
+
+Pandora NanoLemmings 0.1.0
+==========================
+
+Did you like the classic game Lemmings?
+
+Did you enjoy saving those little guys by digging
+and building bridges to survive a rough terrain?
+
+Did you hate the micro-management and clicking on
+a lemming that is walking in the wrong direction?
+
+Would you like to play with THOUSANDS of lemmings
+instead of just a few dozen?
+
+Then maybe NanoLemmings is a game for you!
+
+
+In NanoLemmings, there are thousands of tiny lemmings
+to be saved. Like in the original Lemmings, they can
+dig through the earth, build bridges, climb walls,
+get umbrellas to land softly and survive big falls,
+and of course explode.  Unlike the original, you don't
+assign these tasks or skills to individual lemmings.
+There simply are too many of them!
+
+Instead, you can draw bridges to be built and tunnels
+to be dug on the screen. When a nanolemming can contribute
+to the bridge or tunnel, it will.
+
+In the original Lemmings, bridge builders magically get
+a backpack filled with bricks. In NanoLemmings, bridges
+are built with the nanolemmings themselves: they get
+themselves 'petrified', supporting one another in order
+to collectively 'build' a bridge. This petrification
+can be undone by 'digging' into a bridge. Be careful
+though, bridges can collapse!
+
+
+
+
+Credits:
+
+   This game was conceived and coded by _wb_ (Jon Sneyers).
+   As usual, all coding was done on the Pandora itself.
+
+   The music is by Dr.Awesome (Bjorn Lynne), and was composed in
+   the eighties and early nineties on the Amiga.
+   It is in the ProTracker MOD format, which has only 4 channels.
+   Only a master like Dr.Awesome can make it sound that good within
+   those limitations.
+   You can find his current music on www.shockwave-sound.com.
+
+   The sound effects were created by EvilDragon (Michael Mrozek).
+
+   The pixel art was done by mcobit.
+
+   Matthias_H wrote a level image generator that was used to make
+   most of the levels look better. Thanks!
+
+
+   Licenses:
+     - the game code: GPL v3
+     - the sound effects: CC BY-SA
+     - the graphics: CC BY-SA
+
+
+   Thanks to the Pandora forum users for their very useful feedback
+   and suggestions!
